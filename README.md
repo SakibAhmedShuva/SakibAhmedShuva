@@ -28,7 +28,39 @@ A highly motivated Machine Learning Engineer with expertise in developing cuttin
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SakibAhmedShuva&show_icons=true&theme=radical)
+![Your GitHub stats](https:///api?username=SakibAhmedShuva&show_icons=true&theme=radical)
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Sakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakibAhmedShuva&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakibAhmedShuva&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakibAhmedShuva&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SakibAhmedShuva&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+
+
+## 📊 GitHub Stats
+
+![Sakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakibAhmedShuva&show_icons=true&theme=radical&count_private=true&hide=stars)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakibAhmedShuva&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakibAhmedShuva&theme=radical)
+
 
 ## 📜 Certifications
 
@@ -39,12 +71,6 @@ A highly motivated Machine Learning Engineer with expertise in developing cuttin
 - Microsoft Azure Data Scientist Associate
 - Google Advanced Data Analytics
 - And many more...
-
-## ⚡ Fun Facts
-
-- 🎓 Achieved perfect GPA (5.00/5.00) in both SSC and HSC
-- 🏆 Awarded talent pool scholarships in both primary and junior levels
-- 💻 Developed multiple websites for companies from scratch, handling everything from domain registration to final deployment
 
 ---
 
