@@ -26,34 +26,6 @@ A highly motivated Machine Learning Engineer with expertise in developing cuttin
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/SakibAhmedShuva)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibahmedbup@gmail.com)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https:///api?username=SakibAhmedShuva&show_icons=true&theme=radical)
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Sakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakibAhmedShuva&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakibAhmedShuva&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakibAhmedShuva&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SakibAhmedShuva&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
 
 ## 📊 GitHub Stats
 
