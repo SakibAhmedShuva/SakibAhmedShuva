@@ -12,7 +12,7 @@ A highly motivated Machine Learning Engineer with expertise in developing cuttin
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, R
-- **ML/AI:** TensorFlow, PyTorch, scikit-learn, YOLOv8, YOLOv11, spaCy, NLTK
+- **ML/AI:** TensorFlow, PyTorch, scikit-learn, YOLOv8, YOLOv11, Hugging Face, spaCy, NLTK
 - **Computer Vision:** OpenCV, PIL, docTR
 - **NLP:** Large Language Models (LLMs), LangChain
 - **Deployment:** Docker, AWS, Azure, Flask API
